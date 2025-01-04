@@ -7,6 +7,7 @@ tags: []
 
 # dotnet examples
 
-[[https://github.com/patriksvensson/dotnet-example|Github]]
+[Github](https://github.com/patriksvensson/dotnet-example)  
+
 Dotnet tool that reads from examples directory to execute code on various examples.
 
